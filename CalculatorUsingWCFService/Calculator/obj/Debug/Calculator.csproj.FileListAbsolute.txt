@@ -1,0 +1,13 @@
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\ApplicationInsights.config
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\Calculator.exe
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\Calculator.pdb
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\CalculatorUsingWCFService.dll
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\bin\Debug\CalculatorUsingWCFService.pdb
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.exe
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.pdb
+C:\Users\hemal\OneDrive\Documents\Visual Studio 2015\Projects\WCF\CalculatorUsingWCFService\Calculator\obj\Debug\Calculator.Form2.resources
